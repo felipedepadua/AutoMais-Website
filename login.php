@@ -70,6 +70,7 @@
       <?php endif; ?>
 <?php endif; ?>
 
+<p>PS: This logo and company name do not exist. They were invented to hide the original company in which this prototype was presented to.</p>
 <script src="myscript.js"></script>
 </body>
 </html>
